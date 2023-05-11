@@ -28,6 +28,3 @@ Below is a list of features we would like to one day include in this project
 1. Support more awesome.
 2. Decimate the not-awesome.
 
-### License
-
-Copyright 2021 com.niki. All rights reserved.
